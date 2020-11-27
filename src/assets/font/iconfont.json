@@ -1,0 +1,51 @@
+{
+  "id": "2013037",
+  "name": "Genesis",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "736488",
+      "name": "财务投资",
+      "font_class": "caiwutouzi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1079450",
+      "name": "宠物",
+      "font_class": "chongwu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7208293",
+      "name": "充值",
+      "font_class": "chongzhi",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "10392623",
+      "name": "提现",
+      "font_class": "tixian",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5388069",
+      "name": "眼睛_显示_o",
+      "font_class": "yanjing_xianshi_o",
+      "unicode": "ebcc",
+      "unicode_decimal": 60364
+    },
+    {
+      "icon_id": "5388071",
+      "name": "眼睛_隐藏_o",
+      "font_class": "yanjing_yincang_o",
+      "unicode": "ebcd",
+      "unicode_decimal": 60365
+    }
+  ]
+}

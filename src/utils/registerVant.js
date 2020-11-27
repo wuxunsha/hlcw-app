@@ -1,0 +1,58 @@
+import Vue from 'vue'
+import {
+  Button,
+  Field,
+  NavBar,
+  Swipe,
+  SwipeItem,
+  NoticeBar,
+  Grid,
+  GridItem,
+  Tabbar,
+  TabbarItem,
+  Popup,
+  Stepper,
+  PasswordInput,
+  NumberKeyboard,
+  Image,
+  Progress,
+  Icon,
+  Cell,
+  CellGroup,
+  RadioGroup,
+  Radio,
+  Checkbox,
+  Dialog,
+  ShareSheet,
+  List,
+  PullRefresh,
+  Tag
+} from 'vant'
+
+Vue.use(Button)
+Vue.use(Field)
+Vue.use(NavBar)
+Vue.use(Swipe)
+Vue.use(SwipeItem)
+Vue.use(NoticeBar)
+Vue.use(Grid)
+Vue.use(GridItem)
+Vue.use(Tabbar)
+Vue.use(TabbarItem)
+Vue.use(Popup)
+Vue.use(Stepper)
+Vue.use(PasswordInput)
+Vue.use(NumberKeyboard)
+Vue.use(Image)
+Vue.use(Progress)
+Vue.use(Icon)
+Vue.use(Cell)
+Vue.use(CellGroup)
+Vue.use(RadioGroup)
+Vue.use(Radio)
+Vue.use(Checkbox)
+Vue.use(Dialog)
+Vue.use(ShareSheet)
+Vue.use(List)
+Vue.use(PullRefresh)
+Vue.use(Tag)
